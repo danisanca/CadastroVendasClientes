@@ -62,7 +62,7 @@ namespace SistemaMySql
             this.Controls.Add(this.btnClientes);
             this.Name = "TelaPrincipal";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Form1";
+            this.Text = "Sistema de Vendas";
             this.ResumeLayout(false);
 
         }

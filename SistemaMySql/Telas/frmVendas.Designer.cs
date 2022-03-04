@@ -182,7 +182,7 @@ namespace SistemaMySql.Telas
             // cbBuscar
             // 
             this.cbBuscar.FormattingEnabled = true;
-            this.cbBuscar.Location = new System.Drawing.Point(453, 10);
+            this.cbBuscar.Location = new System.Drawing.Point(453, 7);
             this.cbBuscar.Name = "cbBuscar";
             this.cbBuscar.Size = new System.Drawing.Size(121, 21);
             this.cbBuscar.TabIndex = 30;
@@ -220,7 +220,7 @@ namespace SistemaMySql.Telas
             this.Controls.Add(this.label1);
             this.Name = "frmVendas";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "frmVendas";
+            this.Text = "Vendas";
             this.Load += new System.EventHandler(this.frmVendas_Load);
             ((System.ComponentModel.ISupportInitialize)(this.grid)).EndInit();
             this.ResumeLayout(false);
